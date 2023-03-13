@@ -1,3 +1,0 @@
-Stack: A stack is also calle last in first out
-(LIFO) system, in which insertion and deletions
-can take place only one end, called the top.

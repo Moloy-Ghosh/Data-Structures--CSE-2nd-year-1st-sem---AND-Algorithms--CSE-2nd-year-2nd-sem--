@@ -1,6 +1,0 @@
-Queue: A queue, also called a first-in
-first-out (FIFO) system, in a linear list
-in which deletions can take place only at
-one end of the list, the "front" of the list,
-and insertions can take place only at the 
-other end of the list, the "rear" of the list.
