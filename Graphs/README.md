@@ -16,7 +16,7 @@
   -BFS Algorithm <br>
   -Topological Sort <br>
   
-  Below is my complete note
+  Below is my complete note! (you can get a nice view of my note from this README file from mobile.)
   
  </p>
 
