@@ -1,20 +1,20 @@
 <p>
   I noted here what I read from data structure and discrete math books and class. Topics according to my note:
   
-  -Some definition with example (Graph, Undirected Graph, Directed Graph, Simple Graph, edge, node, Path, Cycle, Cycle Graph, Tree)
-  -Isomorphism and how to check between two graph
-  -Degree
-  -Complete Graph
-  -Bipartite Graph and how to check
-  -Complete Bipartite Graph
-  -Subgraphs
-  -Graph Representation (how to represent with Adjacency Matrix, Incidance Matrix and Adjacency List for directed and undirected graph)
-  -Bi-Connected Graph
-  -Floyd Warshall's Algorithm
-  -Dijkstra's Algorithm
-  -DFS Algorithm
-  -BFS Algorithm
-  -Topological Sort
+  -Some definition with example (Graph, Undirected Graph, Directed Graph, Simple Graph, edge, node, Path, Cycle, Cycle Graph, Tree) <br>
+  -Isomorphism and how to check between two graph <br>
+  -Degree <br>
+  -Complete Graph <br>
+  -Bipartite Graph and how to check <br>
+  -Complete Bipartite Graph <br>
+  -Subgraphs <br>
+  -Graph Representation (how to represent with Adjacency Matrix, Incidance Matrix and Adjacency List for directed and undirected graph) <br>
+  -Bi-Connected Graph <br>
+  -Floyd Warshall's Algorithm <br>
+  -Dijkstra's Algorithm <br>
+  -DFS Algorithm <br>
+  -BFS Algorithm <br>
+  -Topological Sort <br>
   
   Everything of my note you can get below.
   
