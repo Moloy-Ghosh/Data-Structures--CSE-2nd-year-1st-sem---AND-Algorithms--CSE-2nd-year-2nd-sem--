@@ -1,3 +1,29 @@
+<p>
+  I noted here what I read from data structure and discrete math books and class. Topics according to my note:
+  
+  -Some Definiton and identification <br>
+  -Teminologies used in tree <br>
+  -M-ary tree<br>
+  -Binary Search tree with application <br>
+  -Threaded Binary tree <br>
+  -BST Search algorithom<br>
+  -BST deletion algorithom<br>
+  -Linked list representation of tree <br>
+  -Array representation of tree <br>
+  -Traversing (preorder, inorder, postorder)<br>
+  -Spanning tree<br>
+  -Breadth first search <br>
+  -Depth first search<br>
+  -Kruskal's algorithom<br>
+  -Prim's algorithom<br>
+  -Heap<br>
+  -Max-heap (with insertion and deletion algorithom)<br>
+  -Min-heap (with insertion and deletion algorithom)<br>
+  <br>
+  (Good to read the 'README.md' file from smart phone)
+  
+ </p>
+
 <img src="Tree note (Photo)/0.jpg" width=100%/>
 <img src="Tree note (Photo)/1.jpg" width=100%/>
 <img src="Tree note (Photo)/2.jpg" width=100%/>
