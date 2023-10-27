@@ -1,0 +1,27 @@
+*It is a sequence of steps that
+can be followed to solve a problem.
+*An algorithm takes some values as input
+and produces some values as output
+*An algorithm is thus a sequence of
+computational steps that transform the
+input into the output.
+
+Algorithm has three basic section:
+input section
+Operational or processing section
+Output section
+
+There are several techniques to devise
+algorithms, such as divide and conquer,
+greedy,dynamic programming, back reacking
+methods and so on.
+
+Complexity of algorithm:
+Time complexity (execution time)
+Space complexity
+
+For analysis of algorithm three cases
+may be considered:
+Best case
+Average case
+Worst case

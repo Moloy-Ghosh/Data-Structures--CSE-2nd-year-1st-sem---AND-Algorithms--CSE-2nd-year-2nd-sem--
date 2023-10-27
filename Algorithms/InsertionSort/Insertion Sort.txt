@@ -1,0 +1,38 @@
+In this method we take the data of second 
+position first and compare it with the data
+of first position. ​
+
+If the data in the second position is smaller
+than the data in the first position, then we
+shift the data in first position to the right
+(to the second position) and insert the data
+of second position in the first position. ​
+
+Otherwise the data will remain in their own
+positions. ​
+
+After that we take data in the third position
+and compare it with the data in the second
+position. 
+
+If it is less than the data in the second
+position, then we compare it with the data
+in the first position. ​
+
+If it is also less than the data in the first
+position, then we shift the two data to their
+right and place the data of the third position
+in the first position. ​
+
+In case if the data of the third position is
+less than the data of the second position and
+greater than the data of the first position,
+we shift the data of the second position to
+its right and the third data of the third
+position is inserted in the second position. ​
+
+By repeating the process for the data in the
+forth position, fifth position and so on, we
+can sort the whole list. 
+
+  
