@@ -1,0 +1,17 @@
+Suppose that a problem can be solved by a sequence
+of decisions. The greedy method has that each decision
+is locally optimal.  These locally optimal solutions
+will finally add up to a globally optimal solution.
+
+Only a few optimization problems can be solved by
+the greedy method. 
+
+An optimization problem is one in which you want to
+find, not just a solution, but the best solution.
+A “greedy algorithm” sometimes works well for
+optimization problems
+A greedy algorithm works in phases. At each phase:
+You take the best you can get right now, without regard
+for future consequences
+You hope that by choosing a local optimum at each step,
+you will end up at a global optimum
