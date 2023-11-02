@@ -1,0 +1,11 @@
+The divide and conquer method involves three
+steps at each level of the recursion:
+
+Divide the problem into a number of subproblems.
+
+Conquer or solve the subproblems recursively.
+If the subproblem sizes are small enough, solve
+them in a straightforward manner.
+
+Combine the solution to the subproblems to
+get the solution for the original problem. 
