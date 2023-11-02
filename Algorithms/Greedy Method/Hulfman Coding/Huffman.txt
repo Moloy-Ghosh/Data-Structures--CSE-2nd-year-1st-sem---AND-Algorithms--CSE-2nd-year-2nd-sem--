@@ -1,0 +1,29 @@
+Huffman coding is a method of data compression
+that assigns shorter binary codes to more frequently
+occurring symbols in a dataset, like characters
+in a text. This helps reduce the size of the data,
+making it more efficient to store or transmit.
+It's a technique used in various applications,
+such as file compression and data transmission, 
+to save space and improve data transfer speeds.
+
+Lossless and lossy are two different methods of
+data compression, and they have distinct characteristics:
+
+Lossless Compression:
+Lossless compression is a method of reducing the
+size of data without losing any information.
+When you compress data using a lossless method,
+you can fully recover the original data without
+any loss of quality.
+Examples of lossless compression algorithms include
+ZIP, GZIP, and PNG (for images).
+
+Lossy Compression:
+Lossy compression is a method of reducing the
+size of data by selectively discarding some
+information that is considered less important or
+imperceptible to the human senses.
+Examples of lossy compression algorithms include
+JPEG (for images), MP3 (for audio), and
+MPEG (for video).
